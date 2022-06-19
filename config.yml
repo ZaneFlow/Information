@@ -1,0 +1,11 @@
+# Information 0.0.1
+
+# Prefix - it is shown at the top of the information.
+Prefix: "§a==== §8[ §bInfo§8 ] §a===="
+
+Server-Name: "Server Name"
+Server-Ip: "play.minecraft.ph"
+Server-Port: "19132"
+Server-Owner: "ZaNe_Flow"
+# Leave it as a blank if your server doesnt have a website.
+Server-Website: "https://pmpl-store.blogspot.com"
